@@ -1,11 +1,15 @@
 # Tryout
 
-Begin!
+If a==1 then
 
-Gezamenlijke Code
-
-Dit moest worden toegevoegd aan de gezamenlijke code
-
-Module die vervangen moet worden voor alle platforms
-
-Einde!
+    Regel 1
+    
+    Regel 2
+    
+    CAREN platform
+    
+    Regel 3
+    
+    Regel 4
+    
+end
