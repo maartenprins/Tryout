@@ -12,4 +12,6 @@ If a==1 then
     
     Regel 4
     
+    Regel 5
+    
 end
